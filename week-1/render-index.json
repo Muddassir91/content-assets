@@ -1,57 +1,731 @@
 {
   "rendered": [
-    {"day": "monday", "slug": "csos-copywriter-upgrade-map-carousel", "brand": "csos", "type": "carousel", "slide_count": 8, "slides": ["output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-01.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-02.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-03.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-04.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-05.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-06.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-07.png","output/week-1/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"], "pdf": "output/week-1/monday/csos-copywriter-upgrade-map-carousel.pdf"},
-    {"day": "monday", "slug": "muddassir-100k-retention-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 8, "slides": ["output/week-1/monday/muddassir-100k-retention-carousel/slide-01.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-02.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-03.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-04.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-05.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-06.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-07.png","output/week-1/monday/muddassir-100k-retention-carousel/slide-08.png"], "pdf": "output/week-1/monday/muddassir-100k-retention-carousel.pdf"},
-    {"day": "monday", "slug": "muddassir-100k-retention-quote-single", "brand": "muddassir", "type": "single", "template": "quote_single", "png": "output/week-1/monday/muddassir-100k-retention-quote-single.png"},
-    {"day": "monday", "slug": "csos-copy-vs-cs-single", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/monday/csos-copy-vs-cs-single.png"},
-
-    {"day": "tuesday", "slug": "muddassir-churn-reframed-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 7, "slides": ["output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-01.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-02.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-03.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-04.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-05.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-06.png","output/week-1/tuesday/muddassir-churn-reframed-carousel/slide-07.png"], "pdf": "output/week-1/tuesday/muddassir-churn-reframed-carousel.pdf"},
-    {"day": "tuesday", "slug": "muddassir-5-mistakes-margins-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 8, "slides": ["output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-01.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-02.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-03.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-04.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-05.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-06.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-07.png","output/week-1/tuesday/muddassir-5-mistakes-margins-carousel/slide-08.png"], "pdf": "output/week-1/tuesday/muddassir-5-mistakes-margins-carousel.pdf"},
-    {"day": "tuesday", "slug": "muddassir-two-types-of-buyers-single", "brand": "muddassir", "type": "single", "template": "infographic_single", "png": "output/week-1/tuesday/muddassir-two-types-of-buyers-single.png"},
-    {"day": "tuesday", "slug": "csos-proof-of-thinking-single", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/tuesday/csos-proof-of-thinking-single.png"},
-
-    {"day": "wednesday", "slug": "csos-niche-is-a-who-single", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/wednesday/csos-niche-is-a-who-single.png"},
-    {"day": "wednesday", "slug": "csos-proof-vs-portfolio-carousel", "brand": "csos", "type": "carousel", "slide_count": 7, "slides": ["output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-01.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-02.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-03.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-04.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-05.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-06.png","output/week-1/wednesday/csos-proof-vs-portfolio-carousel/slide-07.png"], "pdf": "output/week-1/wednesday/csos-proof-vs-portfolio-carousel.pdf"},
-    {"day": "wednesday", "slug": "csos-first-client-no-portfolio-carousel", "brand": "csos", "type": "carousel", "slide_count": 8, "slides": ["output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-01.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-02.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-03.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-04.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-05.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-06.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-07.png","output/week-1/wednesday/csos-first-client-no-portfolio-carousel/slide-08.png"], "pdf": "output/week-1/wednesday/csos-first-client-no-portfolio-carousel.pdf"},
-    {"day": "wednesday", "slug": "muddassir-14-retention-levers-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 16, "slides": ["output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-01.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-02.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-03.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-04.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-05.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-06.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-07.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-08.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-09.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-10.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-11.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-12.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-13.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-14.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-15.png","output/week-1/wednesday/muddassir-14-retention-levers-carousel/slide-16.png"], "pdf": "output/week-1/wednesday/muddassir-14-retention-levers-carousel.pdf"},
-    {"day": "wednesday", "slug": "csos-niche-selection-ai-prompt-headline", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/wednesday/csos-niche-selection-ai-prompt-headline.png"},
-    {"day": "wednesday", "slug": "csos-niche-7day-carousel-revised", "brand": "csos", "type": "carousel", "slide_count": 7, "slides": ["output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-01.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-02.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-03.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-04.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-05.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-06.png","output/week-1/wednesday/csos-niche-7day-carousel-revised/slide-07.png"], "pdf": "output/week-1/wednesday/csos-niche-7day-carousel-revised.pdf"},
-
-    {"day": "thursday", "slug": "csos-niche-without-guilt-single", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/thursday/csos-niche-without-guilt-single.png"},
-    {"day": "thursday", "slug": "csos-flattery-vs-observation-single", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/thursday/csos-flattery-vs-observation-single.png"},
-    {"day": "thursday", "slug": "muddassir-passionio-case-study-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 9, "slides": ["output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-01.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-02.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-03.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-04.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-05.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-06.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-07.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-08.png","output/week-1/thursday/muddassir-passionio-case-study-carousel/slide-09.png"], "pdf": "output/week-1/thursday/muddassir-passionio-case-study-carousel.pdf"},
-    {"day": "thursday", "slug": "muddassir-passionio-bfcm-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 9, "slides": ["output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-01.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-02.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-03.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-04.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-05.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-06.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-07.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-08.png","output/week-1/thursday/muddassir-passionio-bfcm-carousel/slide-09.png"], "pdf": "output/week-1/thursday/muddassir-passionio-bfcm-carousel.pdf"},
-    {"day": "thursday", "slug": "muddassir-spotify-rfm-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 9, "slides": ["output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-01.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-02.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-03.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-04.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-05.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-06.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-07.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-08.png","output/week-1/thursday/muddassir-spotify-rfm-carousel/slide-09.png"], "pdf": "output/week-1/thursday/muddassir-spotify-rfm-carousel.pdf"},
-
-    {"day": "friday", "slug": "muddassir-top10-single", "brand": "muddassir", "type": "single", "template": "infographic_single", "png": "output/week-1/friday/muddassir-top10-single.png"},
-    {"day": "friday", "slug": "csos-3-things-to-send-single", "brand": "csos", "type": "single", "template": "list_single", "png": "output/week-1/friday/csos-3-things-to-send-single.png"},
-    {"day": "friday", "slug": "muddassir-spotify-single", "brand": "muddassir", "type": "single", "template": "hook_single_with_caption", "png": "output/week-1/friday/muddassir-spotify-single.png"},
-    {"day": "friday", "slug": "muddassir-segment-that-prints-money-single", "brand": "muddassir", "type": "single", "template": "quote_single", "png": "output/week-1/friday/muddassir-segment-that-prints-money-single.png"},
-    {"day": "friday", "slug": "csos-portfolio-dilemma-carousel", "brand": "csos", "type": "carousel", "slide_count": 8, "slides": ["output/week-1/friday/csos-portfolio-dilemma-carousel/slide-01.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-02.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-03.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-04.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-05.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-06.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-07.png","output/week-1/friday/csos-portfolio-dilemma-carousel/slide-08.png"], "pdf": "output/week-1/friday/csos-portfolio-dilemma-carousel.pdf"},
-
-    {"day": "saturday", "slug": "muddassir-7day-onboarding-carousel", "brand": "muddassir", "type": "carousel", "slide_count": 9, "slides": ["output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-01.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-02.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-03.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-04.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-05.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-06.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-07.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-08.png","output/week-1/saturday/muddassir-7day-onboarding-carousel/slide-09.png"], "pdf": "output/week-1/saturday/muddassir-7day-onboarding-carousel.pdf"},
-    {"day": "saturday", "slug": "muddassir-ten-percent-rule-single", "brand": "muddassir", "type": "single", "template": "infographic_single", "png": "output/week-1/saturday/muddassir-ten-percent-rule-single.png"},
-    {"day": "saturday", "slug": "muddassir-day-zero-email-single", "brand": "muddassir", "type": "single", "template": "hook_single_with_caption", "png": "output/week-1/saturday/muddassir-day-zero-email-single.png"},
-    {"day": "saturday", "slug": "csos-awareness-stages-single-replacement", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/saturday/csos-awareness-stages-single-replacement.png"},
-    {"day": "saturday", "slug": "csos-one-observation-ai-prompt-headline", "brand": "csos", "type": "single", "template": "quote_single", "png": "output/week-1/saturday/csos-one-observation-ai-prompt-headline.png"},
-
-    {"day": "sunday", "slug": "muddassir-second-purchase-opportunity-single", "brand": "muddassir", "type": "single", "template": "quote_single", "png": "output/week-1/sunday/muddassir-second-purchase-opportunity-single.png"},
-    {"day": "sunday", "slug": "csos-meta-ad-library-carousel", "brand": "csos", "type": "carousel", "slide_count": 7, "slides": ["output/week-1/sunday/csos-meta-ad-library-carousel/slide-01.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-02.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-03.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-04.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-05.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-06.png","output/week-1/sunday/csos-meta-ad-library-carousel/slide-07.png"], "pdf": "output/week-1/sunday/csos-meta-ad-library-carousel.pdf"},
-    {"day": "sunday", "slug": "csos-winning-ad-5-things-single", "brand": "csos", "type": "single", "template": "infographic_single", "png": "output/week-1/sunday/csos-winning-ad-5-things-single.png"}
+    {
+      "day": "monday",
+      "slug": "muddassir-churn-diagnostics-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/monday/muddassir-churn-diagnostics-li.png"
+    },
+    {
+      "day": "monday",
+      "subtype": "thread_header",
+      "slug": "muddassir-two-types-customers-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/monday/muddassir-two-types-customers-thread.png"
+    },
+    {
+      "day": "monday",
+      "slug": "muddassir-100k-retention-carousel",
+      "brand": "muddassir",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-01.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-02.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-03.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-04.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-05.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-06.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-07.png",
+        "output/batch-01-ready/monday/muddassir-100k-retention-carousel/slide-08.png"
+      ],
+      "pdf": "output/batch-01-ready/monday/muddassir-100k-retention-carousel.pdf",
+      "slide_count": 8
+    },
+    {
+      "day": "monday",
+      "slug": "muddassir-funnel-problem-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/monday/muddassir-funnel-problem-x-single.png"
+    },
+    {
+      "day": "monday",
+      "slug": "muddassir-100k-retention-quote-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/monday/muddassir-100k-retention-quote-single.png"
+    },
+    {
+      "day": "monday",
+      "slug": "muddassir-retention-quote-evening-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/monday/muddassir-retention-quote-evening-li.png"
+    },
+    {
+      "day": "monday",
+      "slug": "csos-upskilling-path-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/monday/csos-upskilling-path-li.png"
+    },
+    {
+      "day": "monday",
+      "slug": "csos-upskilling-path-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/monday/csos-upskilling-path-fb.png"
+    },
+    {
+      "day": "monday",
+      "slug": "csos-copywriter-upgrade-map-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-01.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-02.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-03.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-04.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-05.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-06.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-07.png",
+        "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"
+      ],
+      "pdf": "output/batch-01-ready/monday/csos-copywriter-upgrade-map-carousel.pdf",
+      "slide_count": 8
+    },
+    {
+      "day": "monday",
+      "slug": "csos-copy-vs-cs-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/monday/csos-copy-vs-cs-single.png"
+    },
+    {
+      "day": "monday",
+      "subtype": "reel_cover",
+      "slug": "csos-stop-calling-yourself-copywriter-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/monday/csos-stop-calling-yourself-copywriter-reel.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "muddassir-100k-dangerous-milestone-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/tuesday/muddassir-100k-dangerous-milestone-li.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "muddassir-100k-dangerous-milestone-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/tuesday/muddassir-100k-dangerous-milestone-x-single.png"
+    },
+    {
+      "day": "tuesday",
+      "subtype": "thread_header",
+      "slug": "muddassir-5-signs-wrong-customer-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/tuesday/muddassir-5-signs-wrong-customer-thread.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "muddassir-retention-audit-question-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/tuesday/muddassir-retention-audit-question-li.png"
+    },
+    {
+      "day": "tuesday",
+      "subtype": "reel_cover",
+      "slug": "muddassir-100k-feels-like-winning-reel",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/tuesday/muddassir-100k-feels-like-winning-reel.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "csos-land-first-client-no-portfolio-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/tuesday/csos-land-first-client-no-portfolio-li.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "csos-first-client-no-portfolio-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/tuesday/csos-first-client-no-portfolio-fb.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "csos-proof-of-thinking-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-01.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-02.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-03.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-04.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-05.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-06.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-07.png",
+        "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel/slide-08.png"
+      ],
+      "pdf": "output/batch-01-ready/tuesday/csos-proof-of-thinking-carousel.pdf",
+      "slide_count": 8
+    },
+    {
+      "day": "tuesday",
+      "subtype": "reel_cover",
+      "slug": "csos-stop-building-portfolio-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/tuesday/csos-stop-building-portfolio-reel.png"
+    },
+    {
+      "day": "tuesday",
+      "slug": "csos-proof-of-thinking-quote-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/tuesday/csos-proof-of-thinking-quote-single.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "muddassir-14-retention-levers-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/wednesday/muddassir-14-retention-levers-li.png"
+    },
+    {
+      "day": "wednesday",
+      "subtype": "thread_header",
+      "slug": "muddassir-14-retention-levers-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/wednesday/muddassir-14-retention-levers-thread.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "muddassir-retention-lever-nobody-uses-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/wednesday/muddassir-retention-lever-nobody-uses-x-single.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "muddassir-14-retention-levers-carousel",
+      "brand": "muddassir",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-01.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-02.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-03.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-04.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-05.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-06.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-07.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-08.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-09.png",
+        "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel/slide-10.png"
+      ],
+      "pdf": "output/batch-01-ready/wednesday/muddassir-14-retention-levers-carousel.pdf",
+      "slide_count": 10
+    },
+    {
+      "day": "wednesday",
+      "slug": "muddassir-pricing-retention-lever-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/wednesday/muddassir-pricing-retention-lever-li.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "csos-niche-down-7-days-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/wednesday/csos-niche-down-7-days-li.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "csos-niching-framework-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/wednesday/csos-niching-framework-fb.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "csos-7-day-niche-picker-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-01.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-02.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-03.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-04.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-05.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-06.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-07.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-08.png",
+        "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel/slide-09.png"
+      ],
+      "pdf": "output/batch-01-ready/wednesday/csos-7-day-niche-picker-carousel.pdf",
+      "slide_count": 9
+    },
+    {
+      "day": "wednesday",
+      "subtype": "reel_cover",
+      "slug": "csos-niche-without-guilt-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/wednesday/csos-niche-without-guilt-reel.png"
+    },
+    {
+      "day": "wednesday",
+      "slug": "csos-niche-is-a-who-not-a-what-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/wednesday/csos-niche-is-a-who-not-a-what-single.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "muddassir-two-week-window-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/thursday/muddassir-two-week-window-li.png"
+    },
+    {
+      "day": "thursday",
+      "subtype": "thread_header",
+      "slug": "muddassir-passionio-retention-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/thursday/muddassir-passionio-retention-thread.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "muddassir-email-channel-owned-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/thursday/muddassir-email-channel-owned-x-single.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "muddassir-passionio-bfcm-carousel",
+      "brand": "muddassir",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-01.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-02.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-03.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-04.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-05.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-06.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-07.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-08.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-09.png",
+        "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel/slide-10.png"
+      ],
+      "pdf": "output/batch-01-ready/thursday/muddassir-passionio-bfcm-carousel.pdf",
+      "slide_count": 10
+    },
+    {
+      "day": "thursday",
+      "slug": "muddassir-welcome-sequence-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/thursday/muddassir-welcome-sequence-li.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "csos-cold-outreach-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/thursday/csos-cold-outreach-li.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "csos-cold-outreach-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/thursday/csos-cold-outreach-fb.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "csos-outreach-dm-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-01.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-02.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-03.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-04.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-05.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-06.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-07.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-08.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-09.png",
+        "output/batch-01-ready/thursday/csos-outreach-dm-carousel/slide-10.png"
+      ],
+      "pdf": "output/batch-01-ready/thursday/csos-outreach-dm-carousel.pdf",
+      "slide_count": 10
+    },
+    {
+      "day": "thursday",
+      "subtype": "reel_cover",
+      "slug": "csos-stop-that-dm-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/thursday/csos-stop-that-dm-reel.png"
+    },
+    {
+      "day": "thursday",
+      "slug": "csos-bad-vs-good-dm-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/thursday/csos-bad-vs-good-dm-single.png"
+    },
+    {
+      "day": "friday",
+      "slug": "muddassir-spotify-retention-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/friday/muddassir-spotify-retention-li.png"
+    },
+    {
+      "day": "friday",
+      "subtype": "thread_header",
+      "slug": "muddassir-spotify-retention-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/friday/muddassir-spotify-retention-thread.png"
+    },
+    {
+      "day": "friday",
+      "slug": "muddassir-top-10-percent-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/friday/muddassir-top-10-percent-x-single.png"
+    },
+    {
+      "day": "friday",
+      "subtype": "reel_cover",
+      "slug": "muddassir-spotify-churn-reel",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/friday/muddassir-spotify-churn-reel.png"
+    },
+    {
+      "day": "friday",
+      "slug": "muddassir-top-10-quote-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/friday/muddassir-top-10-quote-single.png"
+    },
+    {
+      "day": "friday",
+      "slug": "muddassir-retention-audit-question-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/friday/muddassir-retention-audit-question-li.png"
+    },
+    {
+      "day": "friday",
+      "slug": "csos-portfolio-paradox-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/friday/csos-portfolio-paradox-li.png"
+    },
+    {
+      "day": "friday",
+      "slug": "csos-portfolio-paradox-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/friday/csos-portfolio-paradox-fb.png"
+    },
+    {
+      "day": "friday",
+      "slug": "csos-portfolio-paradox-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-01.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-02.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-03.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-04.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-05.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-06.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-07.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-08.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-09.png",
+        "output/batch-01-ready/friday/csos-portfolio-paradox-carousel/slide-10.png"
+      ],
+      "pdf": "output/batch-01-ready/friday/csos-portfolio-paradox-carousel.pdf",
+      "slide_count": 10
+    },
+    {
+      "day": "friday",
+      "subtype": "reel_cover",
+      "slug": "csos-portfolio-dilemma-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/friday/csos-portfolio-dilemma-reel.png"
+    },
+    {
+      "day": "friday",
+      "slug": "csos-send-instead-portfolio-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/friday/csos-send-instead-portfolio-single.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "muddassir-7day-onboarding-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/saturday/muddassir-7day-onboarding-li.png"
+    },
+    {
+      "day": "saturday",
+      "subtype": "thread_header",
+      "slug": "muddassir-onboarding-teardown-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/saturday/muddassir-onboarding-teardown-thread.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "muddassir-7day-onboarding-carousel",
+      "brand": "muddassir",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-01.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-02.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-03.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-04.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-05.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-06.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-07.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-08.png",
+        "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel/slide-09.png"
+      ],
+      "pdf": "output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel.pdf",
+      "slide_count": 9
+    },
+    {
+      "day": "saturday",
+      "slug": "muddassir-day-zero-email-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/saturday/muddassir-day-zero-email-single.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "muddassir-retention-patience-evening-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/saturday/muddassir-retention-patience-evening-li.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "csos-read-competitor-ad-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/saturday/csos-read-competitor-ad-li.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "csos-ad-teardown-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/saturday/csos-ad-teardown-fb.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "csos-swipe-to-strategy-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-01.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-02.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-03.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-04.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-05.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-06.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-07.png",
+        "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel/slide-08.png"
+      ],
+      "pdf": "output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel.pdf",
+      "slide_count": 8
+    },
+    {
+      "day": "saturday",
+      "subtype": "reel_cover",
+      "slug": "csos-awareness-diagnosis-reel",
+      "brand": "csos",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/saturday/csos-awareness-diagnosis-reel.png"
+    },
+    {
+      "day": "saturday",
+      "slug": "csos-picture-the-buyer-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/saturday/csos-picture-the-buyer-single.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "muddassir-customer-investment-li",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/sunday/muddassir-customer-investment-li.png"
+    },
+    {
+      "day": "sunday",
+      "subtype": "thread_header",
+      "slug": "muddassir-customer-investment-thread",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/sunday/muddassir-customer-investment-thread.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "muddassir-retention-behaviour-x-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/sunday/muddassir-retention-behaviour-x-single.png"
+    },
+    {
+      "day": "sunday",
+      "subtype": "reel_cover",
+      "slug": "muddassir-retention-pull-reel",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "hook_single_with_caption",
+      "png": "output/batch-01-ready/sunday/muddassir-retention-pull-reel.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "muddassir-5-questions-stick-single",
+      "brand": "muddassir",
+      "type": "single",
+      "template": "quote_card",
+      "png": "output/batch-01-ready/sunday/muddassir-5-questions-stick-single.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "csos-meta-ad-library-li",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/sunday/csos-meta-ad-library-li.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "csos-meta-ad-library-fb",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/sunday/csos-meta-ad-library-fb.png"
+    },
+    {
+      "day": "sunday",
+      "slug": "csos-meta-ad-library-scan-carousel",
+      "brand": "csos",
+      "type": "carousel",
+      "slides": [
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-01.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-02.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-03.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-04.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-05.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-06.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-07.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-08.png",
+        "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel/slide-09.png"
+      ],
+      "pdf": "output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel.pdf",
+      "slide_count": 9
+    },
+    {
+      "day": "sunday",
+      "slug": "csos-winning-ad-5-notes-single",
+      "brand": "csos",
+      "type": "single",
+      "template": "quote_single",
+      "png": "output/batch-01-ready/sunday/csos-winning-ad-5-notes-single.png"
+    }
   ],
   "skipped": [
-    {"reason": "twitter/tweet single (no primary visual)", "posts": ["muddassir-positioning-audit-tweet","muddassir-100k-arr-single","muddassir-100k-reality-check-tweet","muddassir-second-purchase-single","muddassir-email-is-a-skill-tweet","muddassir-onboarding-is-retention-single","muddassir-retention-vs-acquisition-single","muddassir-users-who-leave-single"]},
-    {"reason": "reel (video; on-screen-text beats only)", "posts": ["csos-stop-calling-yourself-copywriter-reel","csos-no-portfolio-reel","csos-no-portfolio-reel-variant","csos-stop-sending-this-dm-reel","csos-pov-need-portfolio-reel","muddassir-x-ray-reframe-replacement-reel"]},
-    {"reason": "long-form text post (no primary visual)", "posts": ["csos-upgrade-path-long-form","csos-upgrade-path-linkedin-mirror","csos-first-client-no-portfolio-long-form","muddassir-second-purchase-question-linkedin","csos-first-client-facebook-long","muddassir-pricing-retention-linkedin","csos-cold-outreach-thesis-long","muddassir-welcome-email-fundamentals-linkedin","csos-observation-not-flattery-long","muddassir-first-two-weeks-linkedin","csos-portfolio-paradox-linkedin","csos-portfolio-paradox-facebook","muddassir-friday-segmentation-linkedin","csos-cold-outreach-volume-facebook","muddassir-7day-onboarding-linkedin-long","muddassir-pricing-that-rewards-staying-linkedin","csos-meta-ad-library-linkedin-long","csos-meta-ad-library-facebook-long","csos-niche-selection-facebook-long"]},
-    {"reason": "substack note/essay (no primary visual)", "posts": ["muddassir-churn-misdiagnosis-substack-note","muddassir-who-you-attract-substack-long","muddassir-three-retention-levers-substack","muddassir-14-retention-levers-substack","muddassir-retention-problem-substack-essay","muddassir-copy-clarity-note","muddassir-market-awareness-replacement","muddassir-customer-list-audit-substack-note"]},
-    {"reason": "thread (per-tweet cards skipped)", "posts": ["muddassir-14-retention-thread","muddassir-three-questions-thread","muddassir-7day-onboarding-thread"]},
-    {"reason": "companion of another post", "posts": ["csos-niche-selection-ai-prompt-carousel (headline rendered as csos-niche-selection-ai-prompt-headline)","csos-one-observation-ai-prompt-post (headline rendered as csos-one-observation-ai-prompt-headline)"]}
-  ],
-  "meta": {
-    "generated_at": "2026-04-21",
-    "renderer": "scripts/render-week.py (existing pipeline) via day-by-day spec rotation",
-    "templates_added": ["muddassir/infographic_single.html","muddassir/hook_single_with_caption.html","csos/infographic_single.html","csos/list_single.html"],
-    "templates_updated_for_vertical_centering": ["muddassir/slide_content.html","csos/slide_content.html"],
-    "github_host_base": "https://raw.githubusercontent.com/Muddassir91/content-assets/main"
-  }
+    {
+      "day": "monday",
+      "slug": "muddassir-churn-misdiagnosis-substack-note",
+      "reason": "substack note is text-only (expected)"
+    },
+    {
+      "day": "wednesday",
+      "slug": "muddassir-3-retention-levers-substack-note",
+      "reason": "substack note is text-only (expected)"
+    },
+    {
+      "day": "friday",
+      "slug": "muddassir-retention-100k-substack-essay",
+      "reason": "substack essay without hero template (text-only)"
+    },
+    {
+      "day": "sunday",
+      "slug": "muddassir-retention-observation-substack-note",
+      "reason": "substack note is text-only (expected)"
+    }
+  ]
 }

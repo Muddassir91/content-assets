@@ -13,7 +13,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-churn-diagnostics-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-churn-diagnostics-li.png"
     }
   },
   {
@@ -39,7 +39,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-two-types-customers-thread.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-two-types-customers-thread.png"
     }
   },
   {
@@ -57,16 +57,16 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-08.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-08.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel.pdf"
     }
   },
   {
@@ -83,7 +83,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-funnel-problem-x-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-funnel-problem-x-single.png"
     }
   },
   {
@@ -117,7 +117,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-quote-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-quote-single.png"
     }
   },
   {
@@ -134,7 +134,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-retention-quote-evening-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-retention-quote-evening-li.png"
     }
   },
   {
@@ -151,7 +151,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-upskilling-path-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-upskilling-path-li.png"
     }
   },
   {
@@ -168,7 +168,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-upskilling-path-fb.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-upskilling-path-fb.png"
     }
   },
   {
@@ -186,16 +186,16 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel.pdf"
     }
   },
   {
@@ -212,7 +212,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copy-vs-cs-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copy-vs-cs-single.png"
     }
   },
   {
@@ -229,7 +229,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-stop-calling-yourself-copywriter-reel.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-stop-calling-yourself-copywriter-reel.png"
     }
   }
 ]

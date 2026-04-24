@@ -13,7 +13,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-churn-diagnostics-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-churn-diagnostics-li.png"
     }
   },
   {
@@ -39,7 +39,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-two-types-customers-thread.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-two-types-customers-thread.png"
     }
   },
   {
@@ -57,16 +57,16 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel/slide-08.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel/slide-08.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-carousel.pdf"
     }
   },
   {
@@ -83,7 +83,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-funnel-problem-x-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-funnel-problem-x-single.png"
     }
   },
   {
@@ -117,7 +117,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-100k-retention-quote-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-100k-retention-quote-single.png"
     }
   },
   {
@@ -134,7 +134,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/muddassir-retention-quote-evening-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/muddassir-retention-quote-evening-li.png"
     }
   },
   {
@@ -151,7 +151,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-upskilling-path-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-upskilling-path-li.png"
     }
   },
   {
@@ -168,7 +168,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-upskilling-path-fb.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-upskilling-path-fb.png"
     }
   },
   {
@@ -186,16 +186,16 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel/slide-08.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copywriter-upgrade-map-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copywriter-upgrade-map-carousel.pdf"
     }
   },
   {
@@ -212,7 +212,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-copy-vs-cs-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-copy-vs-cs-single.png"
     }
   },
   {
@@ -229,7 +229,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/monday/csos-stop-calling-yourself-copywriter-reel.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/monday/csos-stop-calling-yourself-copywriter-reel.png"
     }
   },
   {
@@ -246,7 +246,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/muddassir-100k-dangerous-milestone-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/muddassir-100k-dangerous-milestone-li.png"
     }
   },
   {
@@ -263,7 +263,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/muddassir-100k-dangerous-milestone-x-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/muddassir-100k-dangerous-milestone-x-single.png"
     }
   },
   {
@@ -289,7 +289,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/muddassir-5-signs-wrong-customer-thread.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/muddassir-5-signs-wrong-customer-thread.png"
     }
   },
   {
@@ -306,7 +306,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/muddassir-retention-audit-question-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/muddassir-retention-audit-question-li.png"
     }
   },
   {
@@ -323,7 +323,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/muddassir-100k-feels-like-winning-reel.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/muddassir-100k-feels-like-winning-reel.png"
     }
   },
   {
@@ -340,7 +340,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-land-first-client-no-portfolio-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-land-first-client-no-portfolio-li.png"
     }
   },
   {
@@ -357,7 +357,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-first-client-no-portfolio-fb.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-first-client-no-portfolio-fb.png"
     }
   },
   {
@@ -375,16 +375,16 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel/slide-08.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel/slide-08.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-carousel.pdf"
     }
   },
   {
@@ -401,7 +401,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-stop-building-portfolio-reel.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-stop-building-portfolio-reel.png"
     }
   },
   {
@@ -418,7 +418,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/tuesday/csos-proof-of-thinking-quote-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/tuesday/csos-proof-of-thinking-quote-single.png"
     }
   },
   {
@@ -435,7 +435,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-li.png"
     }
   },
   {
@@ -464,7 +464,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-thread.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-thread.png"
     }
   },
   {
@@ -481,7 +481,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-retention-lever-nobody-uses-x-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-retention-lever-nobody-uses-x-single.png"
     }
   },
   {
@@ -499,18 +499,18 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-09.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel/slide-10.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-08.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-09.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel/slide-10.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-14-retention-levers-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-14-retention-levers-carousel.pdf"
     }
   },
   {
@@ -544,7 +544,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/muddassir-pricing-retention-lever-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/muddassir-pricing-retention-lever-li.png"
     }
   },
   {
@@ -561,7 +561,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-niche-down-7-days-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-niche-down-7-days-li.png"
     }
   },
   {
@@ -578,7 +578,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-niching-framework-fb.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-niching-framework-fb.png"
     }
   },
   {
@@ -596,17 +596,17 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel/slide-09.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-08.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel/slide-09.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-7-day-niche-picker-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-7-day-niche-picker-carousel.pdf"
     }
   },
   {
@@ -623,7 +623,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-niche-without-guilt-reel.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-niche-without-guilt-reel.png"
     }
   },
   {
@@ -640,7 +640,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/wednesday/csos-niche-is-a-who-not-a-what-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/wednesday/csos-niche-is-a-who-not-a-what-single.png"
     }
   },
   {
@@ -657,7 +657,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-two-week-window-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-two-week-window-li.png"
     }
   },
   {
@@ -685,7 +685,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-retention-thread.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-retention-thread.png"
     }
   },
   {
@@ -702,7 +702,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-email-channel-owned-x-single.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-email-channel-owned-x-single.png"
     }
   },
   {
@@ -720,18 +720,18 @@
     "assets": {
       "kind": "carousel",
       "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-09.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel/slide-10.png"
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-01.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-02.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-03.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-04.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-05.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-06.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-07.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-08.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-09.png",
+        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel/slide-10.png"
       ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-passionio-bfcm-carousel.pdf"
+      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-passionio-bfcm-carousel.pdf"
     }
   },
   {
@@ -748,7 +748,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/muddassir-welcome-sequence-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/muddassir-welcome-sequence-li.png"
     }
   },
   {
@@ -765,7 +765,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-cold-outreach-li.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/csos-cold-outreach-li.png"
     }
   },
   {
@@ -782,7 +782,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-cold-outreach-fb.png"
+      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r3/thursday/csos-cold-outreach-fb.png"
     }
   },
   {
@@ -799,19 +799,8 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-09.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel/slide-10.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-outreach-dm-carousel.pdf"
+      "slide_urls": [],
+      "pdf_url": null
     }
   },
   {
@@ -828,7 +817,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-stop-that-dm-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/thursday/csos-stop-that-dm-reel.png"
     }
   },
   {
@@ -845,7 +834,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/thursday/csos-bad-vs-good-dm-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/thursday/csos-bad-vs-good-dm-single.png"
     }
   },
   {
@@ -862,7 +851,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-retention-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-retention-li.png"
     }
   },
   {
@@ -906,7 +895,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-retention-thread.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-retention-thread.png"
     }
   },
   {
@@ -923,7 +912,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-top-10-percent-x-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-top-10-percent-x-single.png"
     }
   },
   {
@@ -940,7 +929,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-churn-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-churn-reel.png"
     }
   },
   {
@@ -957,7 +946,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-top-10-quote-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-top-10-quote-single.png"
     }
   },
   {
@@ -974,7 +963,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-retention-audit-question-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-retention-audit-question-li.png"
     }
   },
   {
@@ -991,7 +980,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-li.png"
     }
   },
   {
@@ -1008,7 +997,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-fb.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-fb.png"
     }
   },
   {
@@ -1025,19 +1014,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-09.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-10.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-carousel"
     }
   },
   {
@@ -1054,7 +1031,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-dilemma-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-dilemma-reel.png"
     }
   },
   {
@@ -1071,7 +1048,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-send-instead-portfolio-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-send-instead-portfolio-single.png"
     }
   },
   {
@@ -1088,7 +1065,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-7day-onboarding-li.png"
     }
   },
   {
@@ -1116,7 +1093,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-onboarding-teardown-thread.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-onboarding-teardown-thread.png"
     }
   },
   {
@@ -1133,18 +1110,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-09.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel"
     }
   },
   {
@@ -1161,7 +1127,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-day-zero-email-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-day-zero-email-single.png"
     }
   },
   {
@@ -1178,7 +1144,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-retention-patience-evening-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-retention-patience-evening-li.png"
     }
   },
   {
@@ -1195,7 +1161,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-read-competitor-ad-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-read-competitor-ad-li.png"
     }
   },
   {
@@ -1212,7 +1178,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-ad-teardown-fb.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-ad-teardown-fb.png"
     }
   },
   {
@@ -1229,17 +1195,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-08.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel"
     }
   },
   {
@@ -1256,7 +1212,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-awareness-diagnosis-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-awareness-diagnosis-reel.png"
     }
   },
   {
@@ -1273,7 +1229,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-picture-the-buyer-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-picture-the-buyer-single.png"
     }
   },
   {
@@ -1290,7 +1246,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/muddassir-customer-investment-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/muddassir-customer-investment-li.png"
     }
   },
   {
@@ -1316,7 +1272,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/muddassir-customer-investment-thread.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/muddassir-customer-investment-thread.png"
     }
   },
   {
@@ -1333,7 +1289,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/muddassir-retention-behaviour-x-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/muddassir-retention-behaviour-x-single.png"
     }
   },
   {
@@ -1350,7 +1306,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/muddassir-retention-pull-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/muddassir-retention-pull-reel.png"
     }
   },
   {
@@ -1367,7 +1323,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/muddassir-5-questions-stick-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/muddassir-5-questions-stick-single.png"
     }
   },
   {
@@ -1401,7 +1357,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/csos-meta-ad-library-li.png"
     }
   },
   {
@@ -1418,7 +1374,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-fb.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/csos-meta-ad-library-fb.png"
     }
   },
   {
@@ -1435,18 +1391,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel/slide-09.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-meta-ad-library-scan-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/csos-meta-ad-library-scan-carousel"
     }
   },
   {
@@ -1463,7 +1408,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/sunday/csos-winning-ad-5-notes-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/sunday/csos-winning-ad-5-notes-single.png"
     }
   }
 ]

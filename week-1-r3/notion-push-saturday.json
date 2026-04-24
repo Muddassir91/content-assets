@@ -13,7 +13,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-7day-onboarding-li.png"
     }
   },
   {
@@ -41,7 +41,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-onboarding-teardown-thread.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-onboarding-teardown-thread.png"
     }
   },
   {
@@ -58,18 +58,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel/slide-09.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-7day-onboarding-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-7day-onboarding-carousel"
     }
   },
   {
@@ -86,7 +75,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-day-zero-email-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-day-zero-email-single.png"
     }
   },
   {
@@ -103,7 +92,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/muddassir-retention-patience-evening-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/muddassir-retention-patience-evening-li.png"
     }
   },
   {
@@ -120,7 +109,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-read-competitor-ad-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-read-competitor-ad-li.png"
     }
   },
   {
@@ -137,7 +126,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-ad-teardown-fb.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-ad-teardown-fb.png"
     }
   },
   {
@@ -154,17 +143,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel/slide-08.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-swipe-to-strategy-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-swipe-to-strategy-carousel"
     }
   },
   {
@@ -181,7 +160,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-awareness-diagnosis-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-awareness-diagnosis-reel.png"
     }
   },
   {
@@ -198,7 +177,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/saturday/csos-picture-the-buyer-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/saturday/csos-picture-the-buyer-single.png"
     }
   }
 ]

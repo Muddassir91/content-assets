@@ -13,7 +13,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-retention-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-retention-li.png"
     }
   },
   {
@@ -57,7 +57,7 @@
     ],
     "assets": {
       "kind": "thread_header",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-retention-thread.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-retention-thread.png"
     }
   },
   {
@@ -74,7 +74,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-top-10-percent-x-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-top-10-percent-x-single.png"
     }
   },
   {
@@ -91,7 +91,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-spotify-churn-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-spotify-churn-reel.png"
     }
   },
   {
@@ -108,7 +108,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-top-10-quote-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-top-10-quote-single.png"
     }
   },
   {
@@ -125,7 +125,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/muddassir-retention-audit-question-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/muddassir-retention-audit-question-li.png"
     }
   },
   {
@@ -142,7 +142,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-li.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-li.png"
     }
   },
   {
@@ -159,7 +159,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-fb.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-fb.png"
     }
   },
   {
@@ -176,19 +176,7 @@
     "tweets": null,
     "assets": {
       "kind": "carousel",
-      "slide_urls": [
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-01.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-02.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-03.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-04.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-05.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-06.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-07.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-08.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-09.png",
-        "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel/slide-10.png"
-      ],
-      "pdf_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-paradox-carousel.pdf"
+      "error": "no render folder at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-paradox-carousel"
     }
   },
   {
@@ -205,7 +193,7 @@
     "tweets": null,
     "assets": {
       "kind": "reel_cover",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-portfolio-dilemma-reel.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-portfolio-dilemma-reel.png"
     }
   },
   {
@@ -222,7 +210,7 @@
     "tweets": null,
     "assets": {
       "kind": "single",
-      "image_url": "https://raw.githubusercontent.com/Muddassir91/content-assets/main/week-1-r2/friday/csos-send-instead-portfolio-single.png"
+      "error": "no image at /Users/muddassir/Desktop/My Business/Content-Master/output/batch-01-ready/friday/csos-send-instead-portfolio-single.png"
     }
   }
 ]
